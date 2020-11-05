@@ -1,2 +1,2 @@
 # knowledge
-Curated list and notes for all the things to know.
+Curated lists and notes for all the things to know.
