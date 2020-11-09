@@ -18,3 +18,4 @@
   - Remove unncessary words
   - Avoid acronyms
   - Avoid jargon
+- Metaphors - relate concepts to what people already know
