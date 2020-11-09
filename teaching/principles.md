@@ -5,10 +5,10 @@
 > \- [Simon Sinek](https://www.youtube.com/watch?v=e4PGwQU-1Yc)
 
 - Relentlessly drive for the WIIFM 🎯
-  - What problem does this information solve for audience
+  - Answer: What problem does this information solve for audience?
   - Describe benefits, not features
 - Simplify
-  - Boil concepts down to the essential ideas
+  - What are the essential ideas?
 - Optimize for the rule of three
 - Find a repeatable saying or "tag phrase"
   - Practice key phrases
