@@ -1,7 +1,7 @@
 # Presentation checklist
 
 ## General
-- [ ] Wired connection (not WiFi is possible)
+- [ ] Wired connection (not WiFi if possible)
 
 ## Notifications
 - [ ] Supress app notifications
