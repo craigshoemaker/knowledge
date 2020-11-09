@@ -16,8 +16,7 @@
 
 ## Mechanics
 - Key phrase(s)
-  - Refine word choice
-      - Use literary devices to make them easy to remember
+  - Use literary devices to make them easy to remember
 - Word choice
   - Use common terms (eschew a variegated vocalulary 😉)
   - Remove unncessary words
