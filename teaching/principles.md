@@ -5,7 +5,7 @@
 > \- [Simon Sinek](https://www.youtube.com/watch?v=e4PGwQU-1Yc)
 
 - Relentlessly drive for the WIIFM 🎯
-  - Answer: What problem does this information solve for audience?
+  - _Answer:_ What problem does this information solve for the audience?
   - Describe benefits, not features
 - Simplify
   - What are the essential ideas?
