@@ -18,7 +18,7 @@
 - Key phrase(s)
   - Use literary devices to make them easy to remember
 - Word choice
-  - Use common terms (eschew a variegated vocalulary 😉)
+  - Use common terms (eschew a variegated vocabulary 😉)
   - Remove unncessary words
   - Avoid acronyms
   - Avoid jargon
